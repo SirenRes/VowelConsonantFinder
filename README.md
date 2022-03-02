@@ -1,2 +1,3 @@
 # VowelConsonantFinder
-Automatically finds vowel and consonant letters of a given word.
+Coded in OOP structure and designed for Turkish Langauge.
+Primarily designed for turkish but can be revised for any language.
